@@ -1,0 +1,24 @@
+body {
+  background-color: #ffffff;
+}
+
+p {
+  font-family: "Neuton", serif;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#clock {
+  font-family: "Modak", cursive;
+  font-size: 90px;
+  font-color: #000000;
+  text-align: center;
+}
+
+#date {
+  font-family: "Neuton", serif;
+  font-size: 50px;
+  font-color: #000000;
+  text-align: center;
+}
