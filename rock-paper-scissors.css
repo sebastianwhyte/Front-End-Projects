@@ -1,0 +1,42 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  border: 1px solid white;
+  padding: 30px;
+}
+
+img:hover {
+  cursor: pointer;
+}
+
+img:active {
+  transform: translateY(4px);
+}
+
+.container {
+  text-align: center;
+}
+
+.rock {
+  height: 200px;
+  width: 200px;
+}
+
+.paper {
+  height: 220px;
+  width: 220px;
+}
+
+#credit {
+  font-size: 0.75em;
+  text-align: right;
+  margin-top: 150px;
+}
