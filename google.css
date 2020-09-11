@@ -1,0 +1,129 @@
+/* @import "config"; */
+/* Made by Sebastian Whyte. Sept 2020 */
+/* .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+*/
+input {
+  position: relative;
+  height: 65px;
+  width: 750px;
+  border-radius: 30px;
+  border: 0.5px solid #d6d6d6;
+  outline: none;
+  margin: 0 auto;
+}
+
+input:hover {
+  -webkit-box-shadow: 2px 2px 10px #d6d6d6;
+          box-shadow: 2px 2px 10px #d6d6d6;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline !important;
+  cursor: pointer;
+}
+
+#logo {
+  margin-top: 100px;
+  margin-left: 80px;
+  height: 50%;
+  width: auto;
+  max-height: 225px;
+  max-width: 600px;
+  padding: 30px;
+}
+
+#left {
+  float: left;
+  margin-top: 25px;
+}
+
+#right {
+  float: right;
+  margin-top: 20px;
+}
+
+#dots {
+  height: 25px;
+  width: 50px;
+}
+
+#search-glass {
+  position: absolute;
+  height: auto;
+  width: auto;
+  max-height: 30px;
+  max-width: 30px;
+  margin-top: -47px;
+  margin-left: -160px;
+}
+
+#search-by-voice {
+  position: absolute;
+  height: auto;
+  width: auto;
+  max-height: 30px;
+  max-width: 30px;
+  margin-top: -48px;
+  margin-left: 500px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 22px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  /* Puts all links side by side */
+  padding: 10px;
+}
+
+form input {
+  font-size: 2rem;
+  padding-left: 80px;
+}
+
+button {
+  font-size: 0.85rem;
+  color: #696969;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  width: 175px;
+  margin-top: 40px;
+}
+
+.search-button {
+  margin-right: 10px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+.container img {
+  margin: 0 auto;
+}
+
+/* .container-2 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
+*/
+/*# sourceMappingURL=google.css.map */
