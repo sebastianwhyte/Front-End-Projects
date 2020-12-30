@@ -38,3 +38,9 @@ A version of the classic 'Rock, Paper, Scissors' game with clickable images.
 A small bio webpage featuring, Izuku Midoriya, the main character of the anime, 'My Hero Academia'. I used CSS Grid to create this layout.
 
 <img width="700" alt="Screen Shot 2020-12-28 at 5 22 50 PM" src="https://user-images.githubusercontent.com/62267311/103246413-56989f00-4931-11eb-87f5-f645fd95d3b8.png">
+
+## Naruto Landing Page
+
+A landing page based on my favorite anime, Naruto.
+
+<img width="700" alt="Screen Shot 2020-12-30 at 2 24 53 PM" src="https://user-images.githubusercontent.com/62267311/103376526-deee7f80-4aaa-11eb-9a88-b4a3cc0f8c74.png">
